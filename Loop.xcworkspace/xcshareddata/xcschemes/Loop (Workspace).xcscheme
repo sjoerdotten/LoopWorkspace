@@ -196,6 +196,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A99C713023396CB100AB9035"
+               BuildableName = "NightscoutServiceKitPlugin.loopplugin"
+               BlueprintName = "NightscoutServiceKitPlugin"
+               ReferencedContainer = "container:NightscoutService/NightscoutService.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "432B0E871CDFC3C50045347B"
                BuildableName = "ShareClient.framework"
                BlueprintName = "ShareClient"
@@ -284,6 +298,34 @@
                BuildableName = "CGMBLEKitUI.framework"
                BlueprintName = "CGMBLEKitUI"
                ReferencedContainer = "container:CGMBLEKit/CGMBLEKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A9FC98DB2333EFE10010CBD2"
+               BuildableName = "AmplitudeServiceKitPlugin.loopplugin"
+               BlueprintName = "AmplitudeServiceKitPlugin"
+               ReferencedContainer = "container:AmplitudeService/AmplitudeService.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A99C711A233965F000AB9035"
+               BuildableName = "LogglyServiceKitPlugin.loopplugin"
+               BlueprintName = "LogglyServiceKitPlugin"
+               ReferencedContainer = "container:LogglyService/LogglyService.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
