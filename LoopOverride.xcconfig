@@ -6,7 +6,7 @@
 //MAIN_APP_DISPLAY_NAME = Loop
 
 // Appication icon
-//APPICON_NAME = AppIcon
+APPICON_NAME = CustomLoopIcon
 
 // Features
 //SWIFT_ACTIVE_COMPILATION_CONDITIONS = $(inherited)
