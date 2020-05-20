@@ -154,10 +154,38 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C1B3830A1CD0665D00CE7782"
+               BuildableName = "NightscoutUploadKit.framework"
+               BlueprintName = "NightscoutUploadKit"
+               ReferencedContainer = "container:rileylink_ios/RileyLink.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "A99C713023396CB100AB9035"
                BuildableName = "NightscoutServiceKitPlugin.loopplugin"
                BlueprintName = "NightscoutServiceKitPlugin"
                ReferencedContainer = "container:NightscoutService/NightscoutService.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "343AB4161CC99F4F00962943"
+               BuildableName = "Amplitude.framework"
+               BlueprintName = "AmplitudeFramework"
+               ReferencedContainer = "container:Amplitude-iOS/Amplitude.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
