@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:spike-client-swift-195/SpikeClient.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:LoopConfigOverride.xcconfig">
    </FileRef>
    <FileRef
